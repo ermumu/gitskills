@@ -1,3 +1,3 @@
 print("hello world !")
 print("123456")
-hello
+print("3 line")
